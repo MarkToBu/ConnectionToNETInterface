@@ -20,7 +20,7 @@ namespace WindowsFormsApp1
         }
 
 
-         //保存用户账号、密码和地址到winform的运行配置文件
+         //保存用户账号、密码和地址到winform的运行 配置文件
         private void Button1_Click(object sender, EventArgs e)
         {
             string acount = textBox1.Text.Trim();
